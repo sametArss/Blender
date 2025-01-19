@@ -1,2 +1,2 @@
 # Blender
-Burada bazı yağtığım örnek blender dosyaları var 
+Burada bazı yaptığım örnek blender dosyaları var 
